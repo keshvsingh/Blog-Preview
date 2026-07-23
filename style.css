@@ -1,4 +1,5 @@
 *{
+    font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -38,4 +39,33 @@ body{
     justify-content: center;
     border-radius: 5px;
 
+}
+
+.publish{
+    margin-top: 10px;
+}
+
+.title{
+    margin-top: 10px;
+    font-weight:800;
+}
+
+.brief{
+    margin-top: 13px;
+}
+.avatar{
+    display: flex;
+    align-items: center;
+    /* gap: 10px; */
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic{
+    height: 32px;
+}
+
+.avatar_name{
+    font-size: smaller;
+    font-weight: 900;
 }
