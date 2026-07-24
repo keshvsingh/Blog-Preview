@@ -62,10 +62,13 @@ body{
 }
 
 .pic{
+    margin-left: 0px;
     height: 32px;
 }
 
 .avatar_name{
+    margin-left: 5px;
     font-size: smaller;
     font-weight: 900;
+    
 }
